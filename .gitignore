@@ -21,3 +21,5 @@ Assets/AssetStoreTools*
 *.orig
 
 .vs/
+
+*.zip
