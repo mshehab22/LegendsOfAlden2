@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f393c83cb12845c68fc65a9d95b374f
+labels:
+- Infinity
+- Spear
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Spears/Spear005/Prefab/SPEAR005.prefab
+  uploadId: 736766

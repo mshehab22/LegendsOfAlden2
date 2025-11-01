@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 5640c9d4d86dd43e393cf47227c312ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Halberd001_Blade
+    100004: Halberd001_Decoration
+    100006: Halberd001_Handle
+    100008: Halberd001_Hilt
+    100010: Halberd001_Point
+    100012: Halberd001_Pommel
+    100014: Halberd001_Rings
+    100016: Halberd001_Spikes
+    400000: //RootNode
+    400002: Halberd001_Blade
+    400004: Halberd001_Decoration
+    400006: Halberd001_Handle
+    400008: Halberd001_Hilt
+    400010: Halberd001_Point
+    400012: Halberd001_Pommel
+    400014: Halberd001_Rings
+    400016: Halberd001_Spikes
+    2100000: polearm_low_lambert1
+    2300000: Halberd001_Decoration
+    2300002: Halberd001_Hilt
+    2300004: Halberd001_Spikes
+    3300000: Halberd001_Decoration
+    3300002: Halberd001_Hilt
+    3300004: Halberd001_Spikes
+    4300000: Halberd001_Handle
+    4300002: Halberd001_Hilt
+    4300004: Halberd001_Pommel
+    4300006: Halberd001_Rings
+    4300008: Halberd001_Blade
+    4300010: Halberd001_Spikes
+    4300012: Halberd001_Point
+    4300014: Halberd001_Decoration
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Halberd001_Blade
+    13700002: Halberd001_Handle
+    13700004: Halberd001_Point
+    13700006: Halberd001_Pommel
+    13700008: Halberd001_Rings
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Halberds/Halberd001/Mesh/HALBERD001.FBX
+  uploadId: 736766

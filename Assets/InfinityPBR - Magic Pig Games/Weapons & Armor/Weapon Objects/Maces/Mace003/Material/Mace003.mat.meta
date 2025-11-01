@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5e34b726af249421685b2dd7c930b016
+timeCreated: 1541402310
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Maces/Mace003/Material/Mace003.mat
+  uploadId: 736766
