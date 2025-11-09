@@ -19,7 +19,9 @@ Assets/AssetStoreTools*
 *.opendb
 *.VC.db
 *.orig
+*.unitypackage
 
 .vs/
 
 *.zip
+Assets/DoubleL/Demo Scenes.unitypackage.meta
