@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Game Projects\\Legends Of Alden II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|c:\\game projects\\legends of alden ii\\library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-09T08:24:04.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlendShapesManagerEditor.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
+              "RelativeToolTip": "Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:59:22.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RPG Character Complete Bundle.txt",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
+              "RelativeDocumentMoniker": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
+              "RelativeToolTip": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-01T23:06:35.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
