@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e2ab20977a454977927d2130df285e2
+labels:
+- Axe
+- Infinity
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Axes/Axe007/Prefab/AXE007.prefab
+  uploadId: 736766

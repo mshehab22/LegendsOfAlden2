@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9bbd646771ca456c9cd272c5a1cccd1
+labels:
+- Infinity
+- Warglaive
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Warglaves/Warglave001/Prefab/Warglaive001.prefab
+  uploadId: 736766

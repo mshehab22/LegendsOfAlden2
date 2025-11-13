@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6aafc070654ee4b518ca18129e2bd40d
+timeCreated: 1537844454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Daggers/Dagger005/Material/Dagger005.mat
+  uploadId: 736766

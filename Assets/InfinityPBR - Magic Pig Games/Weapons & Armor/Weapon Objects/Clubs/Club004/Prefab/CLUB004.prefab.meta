@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 65fb9017c40054cb48922e41ab8d69c7
+labels:
+- Club
+- Infinity
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133055
+  packageName: Weapons & Armor PBR Pack #2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Weapon Objects/Clubs/Club004/Prefab/CLUB004.prefab
+  uploadId: 736766
