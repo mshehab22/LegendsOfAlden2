@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Game Projects\\Legends Of Alden II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|c:\\game projects\\legends of alden ii\\library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|c:\\game projects\\legends of alden ii\\assets\\infinitypbr\\shaders\\av\\hair\\av urp hair.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\shaders\\av\\hair\\av urp hair.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|c:\\game projects\\legends of alden ii\\assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr\\__read me \u0026 support \u0026 instructions\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\__read me \u0026 support \u0026 instructions\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|C:\\Game Projects\\Legends Of Alden II\\library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +43,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AV URP Hair.shader",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\Shaders\\AV\\Hair\\AV URP Hair.shader",
+              "RelativeDocumentMoniker": "Assets\\InfinityPBR\\Shaders\\AV\\Hair\\AV URP Hair.shader",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\Shaders\\AV\\Hair\\AV URP Hair.shader",
+              "RelativeToolTip": "Assets\\InfinityPBR\\Shaders\\AV\\Hair\\AV URP Hair.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-13T08:49:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "READ ME.txt",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__READ ME \u0026 Support \u0026 Instructions\\READ ME.txt",
+              "RelativeDocumentMoniker": "Assets\\InfinityPBR\\__READ ME \u0026 Support \u0026 Instructions\\READ ME.txt",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__READ ME \u0026 Support \u0026 Instructions\\READ ME.txt",
+              "RelativeToolTip": "Assets\\InfinityPBR\\__READ ME \u0026 Support \u0026 Instructions\\READ ME.txt",
+              "ViewState": "AgIAAA4AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-13T07:35:47.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
               "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPQBAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-09T08:24:04.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T08:24:04.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BlendShapesManagerEditor.cs",
               "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
               "RelativeDocumentMoniker": "Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
@@ -59,15 +91,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RPG Character Complete Bundle.txt",
               "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
               "RelativeDocumentMoniker": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
               "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
               "RelativeToolTip": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-01T23:06:35.015Z"
+              "WhenOpened": "2025-11-01T23:06:35.015Z",
+              "EditorCaption": ""
             }
           ]
         }

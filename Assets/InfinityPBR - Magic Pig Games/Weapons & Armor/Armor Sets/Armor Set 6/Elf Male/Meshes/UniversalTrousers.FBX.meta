@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 160325b23e5d90e4193b71385dd7d287
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base HumanHead
+    100002: Base HumanJaw
+    100004: Base HumanLCalf
+    100006: Base HumanLCollarbone
+    100008: Base HumanLFingerIndexR1
+    100010: Base HumanLFingerIndexR2
+    100012: Base HumanLFingerIndexR3
+    100014: Base HumanLFingerPinkieR1
+    100016: Base HumanLFingerPinkieR2
+    100018: Base HumanLFingerPinkieR3
+    100020: Base HumanLFingerR1
+    100022: Base HumanLFingerR2
+    100024: Base HumanLFingerR3
+    100026: Base HumanLFingerRingR1
+    100028: Base HumanLFingerRingR2
+    100030: Base HumanLFingerRingR3
+    100032: Base HumanLFoot
+    100034: Base HumanLForearm1
+    100036: Base HumanLForearm2
+    100038: Base HumanLForearm3
+    100040: Base HumanLPalm
+    100042: Base HumanLThigh1
+    100044: Base HumanLThigh2
+    100046: Base HumanLThumbR1
+    100048: Base HumanLThumbR2
+    100050: Base HumanLThumbR3
+    100052: Base HumanLToe11
+    100054: Base HumanLUpperarm1
+    100056: Base HumanLUpperarm2
+    100058: Base HumanNeck
+    100060: Base HumanPelvis
+    100062: Base HumanRCalf
+    100064: Base HumanRCollarbone
+    100066: Base HumanRFingerIndexR1
+    100068: Base HumanRFingerIndexR2
+    100070: Base HumanRFingerIndexR3
+    100072: Base HumanRFingerPinkieR1
+    100074: Base HumanRFingerPinkieR2
+    100076: Base HumanRFingerPinkieR3
+    100078: Base HumanRFingerR1
+    100080: Base HumanRFingerR2
+    100082: Base HumanRFingerR3
+    100084: Base HumanRFingerRingR1
+    100086: Base HumanRFingerRingR2
+    100088: Base HumanRFingerRingR3
+    100090: Base HumanRFoot
+    100092: Base HumanRForearm1
+    100094: Base HumanRForearm2
+    100096: Base HumanRForearm3
+    100098: Base HumanRibcage
+    100100: Base HumanRPalm
+    100102: Base HumanRThigh1
+    100104: Base HumanRThigh2
+    100106: Base HumanRThumbR1
+    100108: Base HumanRThumbR2
+    100110: Base HumanRThumbR3
+    100112: Base HumanRToe11
+    100114: Base HumanRUpperarm1
+    100116: Base HumanRUpperarm2
+    100118: Base HumanSheathRig
+    100120: Base HumanSpine1
+    100122: Base HumanSpine2
+    100124: Base HumanSpine3
+    100126: BoneRoot
+    100128: UniversalTrousers
+    100130: //RootNode
+    400000: Base HumanHead
+    400002: Base HumanJaw
+    400004: Base HumanLCalf
+    400006: Base HumanLCollarbone
+    400008: Base HumanLFingerIndexR1
+    400010: Base HumanLFingerIndexR2
+    400012: Base HumanLFingerIndexR3
+    400014: Base HumanLFingerPinkieR1
+    400016: Base HumanLFingerPinkieR2
+    400018: Base HumanLFingerPinkieR3
+    400020: Base HumanLFingerR1
+    400022: Base HumanLFingerR2
+    400024: Base HumanLFingerR3
+    400026: Base HumanLFingerRingR1
+    400028: Base HumanLFingerRingR2
+    400030: Base HumanLFingerRingR3
+    400032: Base HumanLFoot
+    400034: Base HumanLForearm1
+    400036: Base HumanLForearm2
+    400038: Base HumanLForearm3
+    400040: Base HumanLPalm
+    400042: Base HumanLThigh1
+    400044: Base HumanLThigh2
+    400046: Base HumanLThumbR1
+    400048: Base HumanLThumbR2
+    400050: Base HumanLThumbR3
+    400052: Base HumanLToe11
+    400054: Base HumanLUpperarm1
+    400056: Base HumanLUpperarm2
+    400058: Base HumanNeck
+    400060: Base HumanPelvis
+    400062: Base HumanRCalf
+    400064: Base HumanRCollarbone
+    400066: Base HumanRFingerIndexR1
+    400068: Base HumanRFingerIndexR2
+    400070: Base HumanRFingerIndexR3
+    400072: Base HumanRFingerPinkieR1
+    400074: Base HumanRFingerPinkieR2
+    400076: Base HumanRFingerPinkieR3
+    400078: Base HumanRFingerR1
+    400080: Base HumanRFingerR2
+    400082: Base HumanRFingerR3
+    400084: Base HumanRFingerRingR1
+    400086: Base HumanRFingerRingR2
+    400088: Base HumanRFingerRingR3
+    400090: Base HumanRFoot
+    400092: Base HumanRForearm1
+    400094: Base HumanRForearm2
+    400096: Base HumanRForearm3
+    400098: Base HumanRibcage
+    400100: Base HumanRPalm
+    400102: Base HumanRThigh1
+    400104: Base HumanRThigh2
+    400106: Base HumanRThumbR1
+    400108: Base HumanRThumbR2
+    400110: Base HumanRThumbR3
+    400112: Base HumanRToe11
+    400114: Base HumanRUpperarm1
+    400116: Base HumanRUpperarm2
+    400118: Base HumanSheathRig
+    400120: Base HumanSpine1
+    400122: Base HumanSpine2
+    400124: Base HumanSpine3
+    400126: BoneRoot
+    400128: UniversalTrousers
+    400130: //RootNode
+    2100000: TrousersSG1
+    4300000: UniversalTrousers
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: UniversalTrousers
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrousersSG1
+    second: {fileID: 2100000, guid: b4fd71eb3468a456f8ffe1574f7833c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176688
+  packageName: Armor Pack 2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Armor Sets/Armor
+    Set 6/Elf Male/Meshes/UniversalTrousers.FBX
+  uploadId: 760223

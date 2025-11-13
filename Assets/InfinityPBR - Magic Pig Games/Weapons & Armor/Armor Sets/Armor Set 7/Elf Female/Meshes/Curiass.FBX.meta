@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 681386a4f68d2f448b664353f8a0da9f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armor7Curiass
+    100002: Base HumanHead
+    100004: Base HumanHead001
+    100006: Base HumanJaw
+    100008: Base HumanJaw001
+    100010: Base HumanLCalf
+    100012: Base HumanLCalf001
+    100014: Base HumanLCollarbone
+    100016: Base HumanLCollarbone001
+    100018: Base HumanLFingerIndexR004
+    100020: Base HumanLFingerIndexR005
+    100022: Base HumanLFingerIndexR006
+    100024: Base HumanLFingerIndexR1
+    100026: Base HumanLFingerIndexR2
+    100028: Base HumanLFingerIndexR3
+    100030: Base HumanLFingerPinkieR004
+    100032: Base HumanLFingerPinkieR005
+    100034: Base HumanLFingerPinkieR006
+    100036: Base HumanLFingerPinkieR1
+    100038: Base HumanLFingerPinkieR2
+    100040: Base HumanLFingerPinkieR3
+    100042: Base HumanLFingerR004
+    100044: Base HumanLFingerR005
+    100046: Base HumanLFingerR006
+    100048: Base HumanLFingerR1
+    100050: Base HumanLFingerR2
+    100052: Base HumanLFingerR3
+    100054: Base HumanLFingerRingR004
+    100056: Base HumanLFingerRingR005
+    100058: Base HumanLFingerRingR006
+    100060: Base HumanLFingerRingR1
+    100062: Base HumanLFingerRingR2
+    100064: Base HumanLFingerRingR3
+    100066: Base HumanLFoot
+    100068: Base HumanLFoot001
+    100070: Base HumanLForearm004
+    100072: Base HumanLForearm005
+    100074: Base HumanLForearm006
+    100076: Base HumanLForearm1
+    100078: Base HumanLForearm2
+    100080: Base HumanLForearm3
+    100082: Base HumanLPalm
+    100084: Base HumanLPalm001
+    100086: Base HumanLThigh003
+    100088: Base HumanLThigh004
+    100090: Base HumanLThigh1
+    100092: Base HumanLThigh2
+    100094: Base HumanLThumbR004
+    100096: Base HumanLThumbR005
+    100098: Base HumanLThumbR006
+    100100: Base HumanLThumbR1
+    100102: Base HumanLThumbR2
+    100104: Base HumanLThumbR3
+    100106: Base HumanLToe012
+    100108: Base HumanLToe11
+    100110: Base HumanLUpperarm003
+    100112: Base HumanLUpperarm004
+    100114: Base HumanLUpperarm1
+    100116: Base HumanLUpperarm2
+    100118: Base HumanNeck
+    100120: Base HumanNeck001
+    100122: Base HumanPelvis
+    100124: Base HumanPelvis001
+    100126: Base HumanRCalf
+    100128: Base HumanRCalf001
+    100130: Base HumanRCollarbone
+    100132: Base HumanRCollarbone001
+    100134: Base HumanRFingerIndexR004
+    100136: Base HumanRFingerIndexR005
+    100138: Base HumanRFingerIndexR006
+    100140: Base HumanRFingerIndexR1
+    100142: Base HumanRFingerIndexR2
+    100144: Base HumanRFingerIndexR3
+    100146: Base HumanRFingerPinkieR004
+    100148: Base HumanRFingerPinkieR005
+    100150: Base HumanRFingerPinkieR006
+    100152: Base HumanRFingerPinkieR1
+    100154: Base HumanRFingerPinkieR2
+    100156: Base HumanRFingerPinkieR3
+    100158: Base HumanRFingerR004
+    100160: Base HumanRFingerR005
+    100162: Base HumanRFingerR006
+    100164: Base HumanRFingerR1
+    100166: Base HumanRFingerR2
+    100168: Base HumanRFingerR3
+    100170: Base HumanRFingerRingR004
+    100172: Base HumanRFingerRingR005
+    100174: Base HumanRFingerRingR006
+    100176: Base HumanRFingerRingR1
+    100178: Base HumanRFingerRingR2
+    100180: Base HumanRFingerRingR3
+    100182: Base HumanRFoot
+    100184: Base HumanRFoot001
+    100186: Base HumanRForearm004
+    100188: Base HumanRForearm005
+    100190: Base HumanRForearm006
+    100192: Base HumanRForearm1
+    100194: Base HumanRForearm2
+    100196: Base HumanRForearm3
+    100198: Base HumanRibcage
+    100200: Base HumanRibcage001
+    100202: Base HumanRPalm
+    100204: Base HumanRPalm001
+    100206: Base HumanRThigh003
+    100208: Base HumanRThigh004
+    100210: Base HumanRThigh1
+    100212: Base HumanRThigh2
+    100214: Base HumanRThumbR004
+    100216: Base HumanRThumbR005
+    100218: Base HumanRThumbR006
+    100220: Base HumanRThumbR1
+    100222: Base HumanRThumbR2
+    100224: Base HumanRThumbR3
+    100226: Base HumanRToe012
+    100228: Base HumanRToe11
+    100230: Base HumanRUpperarm003
+    100232: Base HumanRUpperarm004
+    100234: Base HumanRUpperarm1
+    100236: Base HumanRUpperarm2
+    100238: Base HumanSpine004
+    100240: Base HumanSpine005
+    100242: Base HumanSpine006
+    100244: Base HumanSpine1
+    100246: Base HumanSpine2
+    100248: Base HumanSpine3
+    100250: BoneRoot
+    100252: //RootNode
+    400000: Armor7Curiass
+    400002: Base HumanHead
+    400004: Base HumanHead001
+    400006: Base HumanJaw
+    400008: Base HumanJaw001
+    400010: Base HumanLCalf
+    400012: Base HumanLCalf001
+    400014: Base HumanLCollarbone
+    400016: Base HumanLCollarbone001
+    400018: Base HumanLFingerIndexR004
+    400020: Base HumanLFingerIndexR005
+    400022: Base HumanLFingerIndexR006
+    400024: Base HumanLFingerIndexR1
+    400026: Base HumanLFingerIndexR2
+    400028: Base HumanLFingerIndexR3
+    400030: Base HumanLFingerPinkieR004
+    400032: Base HumanLFingerPinkieR005
+    400034: Base HumanLFingerPinkieR006
+    400036: Base HumanLFingerPinkieR1
+    400038: Base HumanLFingerPinkieR2
+    400040: Base HumanLFingerPinkieR3
+    400042: Base HumanLFingerR004
+    400044: Base HumanLFingerR005
+    400046: Base HumanLFingerR006
+    400048: Base HumanLFingerR1
+    400050: Base HumanLFingerR2
+    400052: Base HumanLFingerR3
+    400054: Base HumanLFingerRingR004
+    400056: Base HumanLFingerRingR005
+    400058: Base HumanLFingerRingR006
+    400060: Base HumanLFingerRingR1
+    400062: Base HumanLFingerRingR2
+    400064: Base HumanLFingerRingR3
+    400066: Base HumanLFoot
+    400068: Base HumanLFoot001
+    400070: Base HumanLForearm004
+    400072: Base HumanLForearm005
+    400074: Base HumanLForearm006
+    400076: Base HumanLForearm1
+    400078: Base HumanLForearm2
+    400080: Base HumanLForearm3
+    400082: Base HumanLPalm
+    400084: Base HumanLPalm001
+    400086: Base HumanLThigh003
+    400088: Base HumanLThigh004
+    400090: Base HumanLThigh1
+    400092: Base HumanLThigh2
+    400094: Base HumanLThumbR004
+    400096: Base HumanLThumbR005
+    400098: Base HumanLThumbR006
+    400100: Base HumanLThumbR1
+    400102: Base HumanLThumbR2
+    400104: Base HumanLThumbR3
+    400106: Base HumanLToe012
+    400108: Base HumanLToe11
+    400110: Base HumanLUpperarm003
+    400112: Base HumanLUpperarm004
+    400114: Base HumanLUpperarm1
+    400116: Base HumanLUpperarm2
+    400118: Base HumanNeck
+    400120: Base HumanNeck001
+    400122: Base HumanPelvis
+    400124: Base HumanPelvis001
+    400126: Base HumanRCalf
+    400128: Base HumanRCalf001
+    400130: Base HumanRCollarbone
+    400132: Base HumanRCollarbone001
+    400134: Base HumanRFingerIndexR004
+    400136: Base HumanRFingerIndexR005
+    400138: Base HumanRFingerIndexR006
+    400140: Base HumanRFingerIndexR1
+    400142: Base HumanRFingerIndexR2
+    400144: Base HumanRFingerIndexR3
+    400146: Base HumanRFingerPinkieR004
+    400148: Base HumanRFingerPinkieR005
+    400150: Base HumanRFingerPinkieR006
+    400152: Base HumanRFingerPinkieR1
+    400154: Base HumanRFingerPinkieR2
+    400156: Base HumanRFingerPinkieR3
+    400158: Base HumanRFingerR004
+    400160: Base HumanRFingerR005
+    400162: Base HumanRFingerR006
+    400164: Base HumanRFingerR1
+    400166: Base HumanRFingerR2
+    400168: Base HumanRFingerR3
+    400170: Base HumanRFingerRingR004
+    400172: Base HumanRFingerRingR005
+    400174: Base HumanRFingerRingR006
+    400176: Base HumanRFingerRingR1
+    400178: Base HumanRFingerRingR2
+    400180: Base HumanRFingerRingR3
+    400182: Base HumanRFoot
+    400184: Base HumanRFoot001
+    400186: Base HumanRForearm004
+    400188: Base HumanRForearm005
+    400190: Base HumanRForearm006
+    400192: Base HumanRForearm1
+    400194: Base HumanRForearm2
+    400196: Base HumanRForearm3
+    400198: Base HumanRibcage
+    400200: Base HumanRibcage001
+    400202: Base HumanRPalm
+    400204: Base HumanRPalm001
+    400206: Base HumanRThigh003
+    400208: Base HumanRThigh004
+    400210: Base HumanRThigh1
+    400212: Base HumanRThigh2
+    400214: Base HumanRThumbR004
+    400216: Base HumanRThumbR005
+    400218: Base HumanRThumbR006
+    400220: Base HumanRThumbR1
+    400222: Base HumanRThumbR2
+    400224: Base HumanRThumbR3
+    400226: Base HumanRToe012
+    400228: Base HumanRToe11
+    400230: Base HumanRUpperarm003
+    400232: Base HumanRUpperarm004
+    400234: Base HumanRUpperarm1
+    400236: Base HumanRUpperarm2
+    400238: Base HumanSpine004
+    400240: Base HumanSpine005
+    400242: Base HumanSpine006
+    400244: Base HumanSpine1
+    400246: Base HumanSpine2
+    400248: Base HumanSpine3
+    400250: BoneRoot
+    400252: //RootNode
+    2100000: No Name
+    4300000: Armor7Curiass
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Armor7Curiass
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176688
+  packageName: Armor Pack 2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Armor Sets/Armor
+    Set 7/Elf Female/Meshes/Curiass.FBX
+  uploadId: 760223
