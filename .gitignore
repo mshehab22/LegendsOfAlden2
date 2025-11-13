@@ -19,7 +19,6 @@ Assets/AssetStoreTools*
 *.opendb
 *.VC.db
 *.orig
-
-.vs/
-
-*.zip
+# Ignore heavy asset installers / archives
+*.unitypackage
+**/HumanBodies.zip

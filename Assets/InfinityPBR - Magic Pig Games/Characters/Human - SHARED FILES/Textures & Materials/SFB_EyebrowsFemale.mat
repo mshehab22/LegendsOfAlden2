@@ -7,6 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: SFB_EyebrowsFemale
+<<<<<<< Updated upstream
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION _LIGHTMAPPING_DYNAMIC_LIGHTMAPS _METALLICGLOSSMAP
     _NORMALMAP _UVSEC_UV1
@@ -17,6 +18,49 @@ Material:
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses: []
+=======
+<<<<<<< HEAD
+  m_Shader: {fileID: 4800000, guid: 8547ec39534635c4289065e5c5033f43, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _EMISSION
+  m_LightmapFlags: 3
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+=======
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHAPREMULTIPLY_ON
+  - _EMISSION
+  - _NORMALMAP
+  - _SPECULAR_SETUP
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords:
+  - _ALPHABLEND_ON
+  - _LIGHTMAPPING_DYNAMIC_LIGHTMAPS
+  - _METALLICGLOSSMAP
+  - _UVSEC_UV1
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+  m_LockedProperties: 
+>>>>>>> Stashed changes
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -24,6 +68,18 @@ Material:
         m_Texture: {fileID: 2800000, guid: 5fb7986dd6d0a8e4093ba82369dd6a4d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _BackTex:
+        m_Texture: {fileID: 0}
+=======
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 815788474aea144bfb914cb82e6da058, type: 3}
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+>>>>>>> Stashed changes
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: caa03eca7146b4557af977cb625cf77b, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -80,14 +136,69 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _ThirdTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+=======
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+>>>>>>> Stashed changes
     m_Floats:
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
     - _AlphaTestRef: 0.5
+<<<<<<< Updated upstream
     - _BumpScale: 0
+=======
+<<<<<<< HEAD
+    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueOffset: 0
+    - _BumpScale: 0
+    - _ColorMask: 15
+=======
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _BumpScale: 0
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _Cull: 0
     - _Cutoff: 0.196
+    - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 0.7
     - _DstBlend: 10
+    - _DstBlendAlpha: 10
     - _EmissionScaleUI: 1
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _Exposure: 1
+=======
+    - _EnvironmentReflections: 1
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _Gloss: 0.209
     - _GlossMapScale: 1
     - _Glossiness: 0
@@ -106,7 +217,15 @@ Material:
     - _OcclusionStrength: 0
     - _Opacity: 1
     - _Parallax: 0.0178
+<<<<<<< Updated upstream
     - _SmoothnessTextureChannel: 0
+=======
+<<<<<<< HEAD
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Rotation: 0
+    - _SmoothnessTextureChannel: 1
+>>>>>>> Stashed changes
     - _SpecularHighlights: 1
     - _SrcBlend: 5
     - _UVSec: 0
@@ -115,6 +234,25 @@ Material:
     - _ZWrite: 0
     m_Colors:
     - _Color: {r: 0.2205882, g: 0.11437907, b: 0, a: 1}
+=======
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Surface: 1
+    - _UVSec: 0
+    - _UseMetallicMap: 0
+    - _WorkflowMode: 0
+    - _XRMotionVectorsPass: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    m_Colors:
+    - _BaseColor: {r: 0.22058818, g: 0.11437904, b: 0, a: 1}
+    - _Color: {r: 0.22058815, g: 0.11437901, b: 0, a: 1}
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0.99999994}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 1, g: 1, b: 1, a: 1}
@@ -124,3 +262,35 @@ Material:
     - _KKSpecularMixIndirectFactors: {r: 0.65, g: 0.4, b: 0.15, a: 0}
     - _SpecColor: {r: 0.21323532, g: 0.16038077, b: 0.06585208, a: 1}
     - _SpecularColor: {r: 0.30147058, g: 0.29780155, b: 0.2881704, a: 1}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &6537780732919823458
+=======
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &8005073197174843095
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+<<<<<<< HEAD
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.ShaderGraph.Editor::UnityEditor.Rendering.BuiltIn.AssetVersion
+  version: 0
+=======
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+  version: 10
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes

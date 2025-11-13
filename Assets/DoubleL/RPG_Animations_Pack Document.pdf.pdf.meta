@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: b36eb0bee7dce604fa68b6746a9b9f2f
+=======
+guid: 46540fe4d9fe32041b3934e6a7f43d55
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+<<<<<<< HEAD
+  productId: 288783
+  packageName: RPG_Animations_Pack_FREE
+  packageVersion: 1.6
+  assetPath: Assets/DoubleL/RPG_Animations_Pack Document.pdf.pdf
+  uploadId: 811092
+=======
+  productId: 282348
+  packageName: RPG Animations Pack
+  packageVersion: 2.0
+  assetPath: Assets/DoubleL/RPG_Animations_Pack Document.pdf.pdf
+  uploadId: 810918
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6

@@ -1,5 +1,25 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+--- !u!114 &-8354019741386235475
+=======
+--- !u!114 &-6371897545954428858
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+  version: 10
+>>>>>>> Stashed changes
 --- !u!21 &2100000
 Material:
   serializedVersion: 6
@@ -8,17 +28,49 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Female_Head_1
+<<<<<<< Updated upstream
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP
+=======
+<<<<<<< HEAD
+  m_Shader: {fileID: 4800000, guid: 8547ec39534635c4289065e5c5033f43, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+=======
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _METALLICSPECGLOSSMAP
+  - _NORMALMAP
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+  m_InvalidKeywords: []
+>>>>>>> Stashed changes
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
+<<<<<<< HEAD
   stringTagMap: {}
+<<<<<<< Updated upstream
   disabledShaderPasses: []
+=======
+=======
+  stringTagMap:
+    RenderType: Opaque
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+>>>>>>> Stashed changes
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: c4c03106824f742a7869aa59e4af8a53, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -40,7 +92,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 81d777ba0fbbe40edb170e540c6feff6, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,11 +107,79 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_Floats:
     - _BumpScale: 1
+=======
+<<<<<<< HEAD
+    - _SecondTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+=======
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+<<<<<<< HEAD
+    - _ThirdTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+=======
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+<<<<<<< HEAD
+    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueOffset: 0
+    - _BumpScale: 1
+    - _ColorIDFuzziness: 0
+    - _ColorIDRange: 0
+    - _ColorMask: 15
+    - _CullMode: 0
+=======
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _FaceDilate: 0
+=======
+    - _DstBlendAlpha: 0
+    - _EnvironmentReflections: 1
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -67,11 +187,181 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 0
     - _Parallax: 0.02
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _PerspectiveFilter: 0.875
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _S0: 0.2559484
+    - _S1: 0.5
+    - _S10: 0.5
+    - _S11: 0.5
+    - _S12: 0.5
+    - _S13: 0.5
+    - _S14: 0.5
+    - _S15: 0.5
+    - _S16: 0.5
+    - _S17: 0.5
+    - _S18: 0.5
+    - _S19: 0.5
+    - _S2: 0.5
+    - _S20: 0.5
+    - _S21: 0.5
+    - _S22: 0.5
+    - _S23: 0.5
+    - _S24: 0.5
+    - _S25: 0.5
+    - _S26: 0.5
+    - _S27: 0.5
+    - _S28: 0.5
+    - _S29: 0.5
+    - _S3: 0.5
+    - _S30: 0.5
+    - _S31: 0.5
+    - _S32: 0.5
+    - _S33: 0.5
+    - _S34: 0.5
+    - _S35: 0.5
+    - _S36: 0.5
+    - _S37: 0.5
+    - _S38: 0.5
+    - _S39: 0.5
+    - _S4: 0.5
+    - _S40: 0.5
+    - _S41: 0.5
+    - _S42: 0.5
+    - _S43: 0.5
+    - _S44: 0.5
+    - _S45: 0.5
+    - _S46: 0.5
+    - _S47: 0.7404315
+    - _S48: 0.5
+    - _S5: 0.5
+    - _S6: 0.5
+    - _S7: 0.5
+    - _S8: 0.5
+    - _S9: 0.5
+    - _ScaleRatioA: 1
+    - _ScaleRatioB: 1
+    - _ScaleRatioC: 1
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ShaderFlags: 0
+    - _Sharpness: 0
+    - _Smoothness: 0.2
+>>>>>>> Stashed changes
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+<<<<<<< Updated upstream
+=======
+    - _UseUIAlphaClip: 0
+    - _V0: 0.5
+    - _V1: 0.5
+    - _V10: 0.5
+    - _V11: 0.5
+    - _V12: 0.5
+    - _V13: 0.5
+    - _V14: 0.5
+    - _V15: 0.5
+    - _V16: 0.5
+    - _V17: 0.5
+    - _V18: 0.5
+    - _V19: 0.5
+    - _V2: 0.5
+    - _V20: 0.5
+    - _V21: 0.5
+    - _V22: 0.5
+    - _V23: 0.5
+    - _V24: 0.5
+    - _V25: 0.5
+    - _V26: 0.5
+    - _V27: 0.5
+    - _V28: 0.5
+    - _V29: 0.5
+    - _V3: 0.5
+    - _V30: 0.5
+    - _V31: 0.5
+    - _V32: 0.5
+    - _V33: 0.5
+    - _V34: 0.5
+    - _V35: 0.5
+    - _V36: 0.5
+    - _V37: 0.5
+    - _V38: 0.5
+    - _V39: 0.5
+    - _V4: 0.5
+    - _V40: 0.5
+    - _V41: 0.5
+    - _V42: 0.5
+    - _V43: 0.5
+    - _V44: 0.5
+    - _V45: 0.5
+    - _V46: 0.5
+    - _V47: 0.5
+    - _V48: 0.5
+    - _V5: 0.5
+    - _V6: 0.5
+    - _V7: 0.5
+    - _V8: 0.5
+    - _V9: 0.5
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.5
+    - _WeightNormal: 0
+=======
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Surface: 0
+    - _UVSec: 0
+    - _WorkflowMode: 1
+    - _XRMotionVectorsPass: 1
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _ZWrite: 1
     m_Colors:
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+=======
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &8561977880155502613
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.ShaderGraph.Editor::UnityEditor.Rendering.BuiltIn.AssetVersion
+  version: 0
+=======
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+>>>>>>> 3f953af81a6b6b8f767b0eabe339346f74124da6
+>>>>>>> Stashed changes
