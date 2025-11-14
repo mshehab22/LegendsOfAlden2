@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Game Projects\\Legends Of Alden II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|c:\\game projects\\legends of alden ii\\library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D7B65E56-E35F-484D-9CCA-BD50CEB1E4EF}|Unity.RenderPipelines.Universal.Shaders.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@1e1527b3a17b\\shaders\\lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\states\\playerstate_locomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playerstate_locomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48BFD511-60DA-59C2-E957-0BB1DF9B2477}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\infinitypbr - magic pig games\\shared files\\equipment system\\editor\\blendshapesmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\infinitypbr\\__bundle details\\rpg character complete bundle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\core\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\statemachine\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\core\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|c:\\game projects\\legends of alden ii\\assets\\scripts\\thirdpersoncameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\core\\statemachine\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\statemachine\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerbasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\states\\playerstate_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playerstate_attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\states\\playerstate_crouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playerstate_crouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|C:\\Game Projects\\Legends Of Alden II\\assets\\scripts\\player\\states\\playerstate_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775479B3-D37F-F483-B3EA-E3EA3EECFE1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playerstate_jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +66,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e1527b3a17b\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-11-09T08:24:04.368Z",
+              "DocumentIndex": 4,
+              "Title": "ThirdPersonCameraController.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\ThirdPersonCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonCameraController.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\ThirdPersonCameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:39:39.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BlendShapesManagerEditor.cs",
-              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
-              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
-              "RelativeToolTip": "Assets\\InfinityPBR - Magic Pig Games\\Shared Files\\Equipment System\\Editor\\BlendShapesManagerEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUCAAAwAAAAAAAAAA==",
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\InputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InputReader.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\InputReader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InputReader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T06:59:22.975Z"
+              "WhenOpened": "2025-11-14T00:21:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerState_Locomotion.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Locomotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\States\\PlayerState_Locomotion.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Locomotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\States\\PlayerState_Locomotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:54:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerState_Jump.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\States\\PlayerState_Jump.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Jump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\States\\PlayerState_Jump.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:54:43.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerState_Crouch.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Crouch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\States\\PlayerState_Crouch.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Crouch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\States\\PlayerState_Crouch.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:54:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerState_Attack.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\States\\PlayerState_Attack.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\States\\PlayerState_Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\States\\PlayerState_Attack.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:46:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerBaseState.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\PlayerBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerBaseState.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\PlayerBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerBaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:37:30.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\StateMachine\\StateMachine.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\StateMachine\\StateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:24:02.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RPG Character Complete Bundle.txt",
-              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
-              "RelativeDocumentMoniker": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
-              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
-              "RelativeToolTip": "Assets\\InfinityPBR\\__Bundle Details\\RPG Character Complete Bundle.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-01T23:06:35.015Z"
+              "Title": "PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\StateMachine\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\PlayerStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\StateMachine\\PlayerStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:17:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\StateMachine\\State.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Core\\StateMachine\\State.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\StateMachine\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:38:00.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Game Projects\\Legends Of Alden II\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAG8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:37:21.566Z"
             }
           ]
         }

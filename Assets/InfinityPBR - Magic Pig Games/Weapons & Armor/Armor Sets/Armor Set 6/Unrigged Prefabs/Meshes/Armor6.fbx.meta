@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: b6f1974d1b6234e2681caa60c2bb8f13
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmpitL
+    100004: armpitR
+    100006: Belt
+    100008: CouterL
+    100010: CouterR
+    100012: CrusaderHelmet
+    100014: CuriassBack
+    100016: CuriassFront
+    100018: CuriassStraps
+    100020: Faulds
+    100022: PauldronL
+    100024: PauldronR
+    100026: PauldronStrapsL
+    100028: PauldronStrapsR
+    100030: PoleynL
+    100032: PoleynR
+    100034: RerebraceL
+    100036: RerebraceR
+    100038: Skirt
+    100040: StandardBootL
+    100042: StandardBootR
+    100044: StandardGauntletL
+    100046: StandardGauntletR
+    100048: Trousers
+    100050: UniversalCollar
+    100052: VambraceL
+    100054: VambraceR
+    400000: //RootNode
+    400002: ArmpitL
+    400004: armpitR
+    400006: Belt
+    400008: CouterL
+    400010: CouterR
+    400012: CrusaderHelmet
+    400014: CuriassBack
+    400016: CuriassFront
+    400018: CuriassStraps
+    400020: Faulds
+    400022: PauldronL
+    400024: PauldronR
+    400026: PauldronStrapsL
+    400028: PauldronStrapsR
+    400030: PoleynL
+    400032: PoleynR
+    400034: RerebraceL
+    400036: RerebraceR
+    400038: Skirt
+    400040: StandardBootL
+    400042: StandardBootR
+    400044: StandardGauntletL
+    400046: StandardGauntletR
+    400048: Trousers
+    400050: UniversalCollar
+    400052: VambraceL
+    400054: VambraceR
+    2100000: UniversalCollar_mat
+    2100002: PlateArmor1a_mat
+    2100004: CrusaderHelm_mat
+    2100006: TrousersSG1
+    2100008: PlateArmor1b_mat
+    2100010: StandardBoot_mat
+    2100012: StandardGauntlet_mat
+    2300000: ArmpitL
+    2300002: armpitR
+    2300004: Belt
+    2300006: CouterL
+    2300008: CouterR
+    2300010: CrusaderHelmet
+    2300012: CuriassBack
+    2300014: CuriassFront
+    2300016: CuriassStraps
+    2300018: Faulds
+    2300020: PauldronL
+    2300022: PauldronR
+    2300024: PauldronStrapsL
+    2300026: PauldronStrapsR
+    2300028: PoleynL
+    2300030: PoleynR
+    2300032: RerebraceL
+    2300034: RerebraceR
+    2300036: Skirt
+    2300038: StandardBootL
+    2300040: StandardBootR
+    2300042: StandardGauntletL
+    2300044: StandardGauntletR
+    2300046: Trousers
+    2300048: UniversalCollar
+    2300050: VambraceL
+    2300052: VambraceR
+    3300000: ArmpitL
+    3300002: armpitR
+    3300004: Belt
+    3300006: CouterL
+    3300008: CouterR
+    3300010: CrusaderHelmet
+    3300012: CuriassBack
+    3300014: CuriassFront
+    3300016: CuriassStraps
+    3300018: Faulds
+    3300020: PauldronL
+    3300022: PauldronR
+    3300024: PauldronStrapsL
+    3300026: PauldronStrapsR
+    3300028: PoleynL
+    3300030: PoleynR
+    3300032: RerebraceL
+    3300034: RerebraceR
+    3300036: Skirt
+    3300038: StandardBootL
+    3300040: StandardBootR
+    3300042: StandardGauntletL
+    3300044: StandardGauntletR
+    3300046: Trousers
+    3300048: UniversalCollar
+    3300050: VambraceL
+    3300052: VambraceR
+    4300000: UniversalCollar
+    4300002: PoleynR
+    4300004: CouterR
+    4300006: PoleynL
+    4300008: CouterL
+    4300010: CrusaderHelmet
+    4300012: Trousers
+    4300014: VambraceR
+    4300016: VambraceL
+    4300018: armpitR
+    4300020: ArmpitL
+    4300022: PauldronStrapsR
+    4300024: PauldronStrapsL
+    4300026: Skirt
+    4300028: Faulds
+    4300030: CuriassFront
+    4300032: CuriassBack
+    4300034: Belt
+    4300036: CuriassStraps
+    4300038: PauldronR
+    4300040: RerebraceR
+    4300042: RerebraceL
+    4300044: PauldronL
+    4300046: StandardBootR
+    4300048: StandardBootL
+    4300050: StandardGauntletR
+    4300052: StandardGauntletL
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176688
+  packageName: Armor Pack 2 - Fantasy RPG
+  packageVersion: 4.3.2
+  assetPath: Assets/InfinityPBR - Magic Pig Games/Weapons & Armor/Armor Sets/Armor
+    Set 6/Unrigged Prefabs/Meshes/Armor6.fbx
+  uploadId: 760223
